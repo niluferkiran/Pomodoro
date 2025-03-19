@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJELER\\myPomodoro\\myPomodoro\\myPomodoro.csproj": {}
+    "D:\\Github_Projeler\\Pomodoro\\myPomodoro\\myPomodoro\\myPomodoro.csproj": {}
   },
   "projects": {
-    "D:\\PROJELER\\myPomodoro\\myPomodoro\\myPomodoro.csproj": {
+    "D:\\Github_Projeler\\Pomodoro\\myPomodoro\\myPomodoro\\myPomodoro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJELER\\myPomodoro\\myPomodoro\\myPomodoro.csproj",
+        "projectUniqueName": "D:\\Github_Projeler\\Pomodoro\\myPomodoro\\myPomodoro\\myPomodoro.csproj",
         "projectName": "myPomodoro",
-        "projectPath": "D:\\PROJELER\\myPomodoro\\myPomodoro\\myPomodoro.csproj",
+        "projectPath": "D:\\Github_Projeler\\Pomodoro\\myPomodoro\\myPomodoro\\myPomodoro.csproj",
         "packagesPath": "C:\\Users\\niluf\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJELER\\myPomodoro\\myPomodoro\\obj\\",
+        "outputPath": "D:\\Github_Projeler\\Pomodoro\\myPomodoro\\myPomodoro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,9 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "default"
         }
       },
       "frameworks": {
